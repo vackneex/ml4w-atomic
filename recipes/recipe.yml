@@ -20,7 +20,7 @@ modules:
   - type: dnf
     repos:
       copr:
-      - solopasha/hyprland
+      - lionheartp/Hyprland
       - erikreider/SwayNotificationCenter
       - errornointernet/quickshell
     install:
