@@ -38,7 +38,6 @@ modules:
         - python3-pip
         - python3-gobject
         - python3-devel
-        - python3-devel
         - python3-setuptools
         - gtk3
         - gtk-layer-shell
