@@ -25,6 +25,8 @@ modules:
       - che/nerd-fonts
       - tofik/nwg-shell
       - peterwu/rendezvous
+    files:
+      - rpmsphere.repo
     install:
       packages:
         - git
