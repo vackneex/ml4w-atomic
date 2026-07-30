@@ -22,7 +22,9 @@ modules:
       copr:
       - lionheartp/Hyprland
       - erikreider/SwayNotificationCenter
-      - errornointernet/quickshell
+      - che/nerd-fonts
+      - tofik/nwg-shell
+      - peterwu/rendezvous
     install:
       packages:
         - git
