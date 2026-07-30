@@ -26,7 +26,7 @@ modules:
         - tofik/nwg-shell
         - peterwu/rendezvous
       files:
-        - rpmsphere.repo
+        # - rpmsphere.repo
     install:
       packages:
         - git
