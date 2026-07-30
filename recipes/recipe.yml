@@ -20,13 +20,13 @@ modules:
   - type: dnf
     repos:
       copr:
-      - lionheartp/Hyprland
-      - erikreider/SwayNotificationCenter
-      - che/nerd-fonts
-      - tofik/nwg-shell
-      - peterwu/rendezvous
-    files:
-      - rpmsphere.repo
+        - lionheartp/Hyprland
+        - erikreider/SwayNotificationCenter
+        - che/nerd-fonts
+        - tofik/nwg-shell
+        - peterwu/rendezvous
+      files:
+        - rpmsphere.repo
     install:
       packages:
         - git
